@@ -1,3 +1,3 @@
-Hi I am Mohd Akif
+Author - Mohd Akif
 <br>
 This is my first project
